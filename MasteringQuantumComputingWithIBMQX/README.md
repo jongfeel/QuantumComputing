@@ -17,7 +17,50 @@ github의 README에는 필요한 패키지의 버전을 명시하고 있는데 �
 [예제코드 README의 버전 확인](https://github.com/jongfeel/Mastering-Quantum-Computing-with-IBM-QX#software-and-hardware-list)
 
 그래서 아래와 같이 환경을 최신 버전으로 설치하고 진행해 본다.
-중간에라도 버전이 업데이트 되면 이 REAMDE.md 문서도 업데이트 될 예정이다.
+설치 방법도 위 링크의 README.md를 확인하면 cli를 확인할 수 있으며 정리해 보면 아래와 같다.
+
+- git clone https://github.com/PacktPublishing/Mastering-Quantum-Computingwith-IBM-QX.git
+- cd Mastering-Quantum-Computing-with-IBM-QX
+- python3 -m venv book
+- source book/bin/activate
+- pip install -r requirements.txt
+- pip install ipykernel
+- ipython kernel install --user --name=bookkernel
+
+### Troubleshooting 1 - activate path
+
+cli 중에 MQC 가상 환경 설정 이후 아래와 같은 명령어는 OS 별로 다르니 확인후에 활성화해야 한다
+
+Mac/Linux
+
+``` python
+source MQC/bin/activate
+```
+
+Windows
+
+``` python
+source MQC/Script/activate
+or
+cd MQC/Script
+Activate.bat
+```
+
+### Troubleshooting 2 - jupyter install
+
+위의 설치 방법 명령어에는 jupyter 설치가 빠져 있는데, python 환경을 써 왔고 jupyter notebook을 써왔던 사람이라면 모를까 PC에 처음 세팅하는 사람은 아래와 같은 명령을 실행하면 오류만 날 것이다.
+
+``` python
+jupyter notebook
+```
+
+당연하게도 jupyter가 설치되지 않아서 생기는 에러이므로 pip로 jupyter를 설치한다.
+
+``` python
+pip install jupyter
+```
+
+중간에라도 버전이 업데이트 되면 이 README.md문서도 업데이트 될 예정이다.
 
 | Chapter | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |
