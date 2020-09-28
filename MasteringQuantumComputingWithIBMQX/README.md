@@ -1,5 +1,7 @@
 # Quantum Computing with IBM QX
 
+![Mastering Quantum Computing with IBM QX: Explore the world of quantum computing using the Quantum Composer and Qiskit](https://image.aladin.co.kr/product/22215/35/cover500/k852636515_1.jpg)
+
 ## Overview
 
 이 책에는 각 챕터별로 실행해 볼 수 있는 프로그램 코드가 있으며 이는 github의 아래 주소에서 확인할 수 있다.
@@ -25,13 +27,15 @@ github의 README에는 필요한 패키지의 버전을 명시하고 있는데 �
 그래서 아래와 같이 환경을 최신 버전으로 설치하고 진행해 본다.
 설치 방법도 위 링크의 README.md를 확인하면 cli를 확인할 수 있으며 정리해 보면 아래와 같다.
 
-- git clone https://github.com/PacktPublishing/Mastering-Quantum-Computingwith-IBM-QX.git
-- cd Mastering-Quantum-Computing-with-IBM-QX
-- python3 -m venv book
-- source book/bin/activate
-- pip install -r requirements.txt
-- pip install ipykernel
-- ipython kernel install --user --name=bookkernel
+``` bash
+$ git clone https://github.com/PacktPublishing/Mastering-Quantum-Computingwith-IBM-QX.git
+$ cd Mastering-Quantum-Computing-with-IBM-QX
+$ python3 -m venv book
+$ source book/bin/activate
+$ pip install -r requirements.txt
+$ pip install ipykernel
+$ ipython kernel install --user --name=bookkernel
+```
 
 ### Troubleshooting 1 - activate path
 
