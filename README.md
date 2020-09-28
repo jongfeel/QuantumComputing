@@ -28,6 +28,9 @@ Quantum Computing and Programming Study
 
 이 정도로 나눠질 수 있다. 셋 중에 두가지 내용이 혼합된 내용도 있고 여러가지 이다. 지금은 출판되는 모든 책을 읽고 정리를 해 나가는 식으로 공부해볼 예정에 있다.
 
+## Practice
+
+- [IBM QX로 배우는 양자 컴퓨팅](MasteringQuantumComputingWithIBMQX/README.md)
 
 ## Books, latest update 2020-09-17
 
