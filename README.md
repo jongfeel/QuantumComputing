@@ -35,7 +35,12 @@ Quantum Computing and Programming Study
 ## Books, latest update 2020-09-17
 
 매번 양자 컴퓨터 관련된 책이 출판되면 리스트를 업데이트 할 예정이다. 책 리스트 순서는 최근 출판된 순서이다. 또한 내가 읽었던 혹은 읽을 책의 리스트이기도 하다.
+또 양자 컴퓨터의 기반이 되는 양자 역학에 대한 책도 맨 아래 리스팅 해 본다.
 
+### Quantum Computer & Programming
+
+- [그림으로 이해하는 양자컴퓨터의 구조](http://aladin.kr/p/8yN9r)
+  - wish list
 - [양자 컴퓨팅 - 이론에서 응용까지](http://aladin.kr/p/pyNbU)
   - wish list
 - [양자 컴퓨터 원리와 수학적 기초 - 스핀부터 큐비트, 얽힘, 중첩, 양자 알고리즘, 양자 암호](http://aladin.kr/p/0NxBo)
@@ -60,6 +65,12 @@ Quantum Computing and Programming Study
   - 양자 컴퓨터에 대한 전반적인 이해를 하기 좋다
   - 어려운 이야기는 최대한 배제하고, 최근 양자 컴퓨터의 발전 과정을 다룬 책.
   - 저자가 일본인이고, 일본이 이 분야에 힘을 쓰면 좋겠다는 희망을 많이 이야기하고 있는 책
+
+## Quantum mechanics & physics
+
+- [양자역학은 처음이지?](http://aladin.kr/p/BNq9j)
+  - 읽는 중...
+
 - [일상적이지만 절대적인 양자역학지식 50 - 슈뢰딩거부터 양자컴퓨터까지 양자세계에 관한 모든 것](http://aladin.kr/p/Gbwew)
   - 이 책 역시 양자 컴퓨터에 대한 전반적인 이해를 하는데 도움이 되는 책
   - 고전 물리 부터 현대 물리, 그리고 양자 역학에 이르기 까지의 스토리 형태로 이해할 수 있음
