@@ -32,7 +32,7 @@ Quantum Computing and Programming Study
 
 - [IBM QX로 배우는 양자 컴퓨팅](MasteringQuantumComputingWithIBMQX/README.md)
 
-## Books, latest update 2020-09-17
+## Books, latest update 2020-10-06
 
 매번 양자 컴퓨터 관련된 책이 출판되면 리스트를 업데이트 할 예정이다. 책 리스트 순서는 최근 출판된 순서이다. 또한 내가 읽었던 혹은 읽을 책의 리스트이기도 하다.
 또 양자 컴퓨터의 기반이 되는 양자 역학에 대한 책도 맨 아래 리스팅 해 본다.
@@ -55,6 +55,7 @@ Quantum Computing and Programming Study
   - 양자 컴퓨팅의 기본인 양자역학, 수학, 양자의 특성을 모두 살려 핵심을 담은 책
   - 설명을 하는 책이라기 보다는 간략하고 아름다운 수학과 수식을 통해 진리를 명시하는 내용 위주로 구성되어 있기 때문에, 어느 정도 수학과 물리에 대한 지식이 있는 상태에서 봐야 함
   - 교수님이 학부생 가르쳐 주려고 자기가 알고 있는 내용을 정리해서 노트에 적은 듯한 느낌이 매우 강함
+  - 리뷰 링크: https://www.notion.so/jongfeel/393b36eab32040019586836838ddcc9a
 - [IBM QX로 배우는 양자 컴퓨팅 - 양자 컴포저와 키스킷을 활용한 양자 컴퓨팅의 이해](http://aladin.kr/p/OWJ8t)
   - 읽는 중...
 - [양자 컴퓨터 프로그래밍 - IBM Q Experience로 하는 양자 컴퓨터 프로그래밍](http://aladin.kr/p/6WuyX)
@@ -66,10 +67,14 @@ Quantum Computing and Programming Study
   - 어려운 이야기는 최대한 배제하고, 최근 양자 컴퓨터의 발전 과정을 다룬 책.
   - 저자가 일본인이고, 일본이 이 분야에 힘을 쓰면 좋겠다는 희망을 많이 이야기하고 있는 책
 
-## Quantum mechanics & physics
+### Quantum mechanics & physics
 
 - [양자역학은 처음이지?](http://aladin.kr/p/BNq9j)
-  - 읽는 중...
+  - 양자역학을 물리학, 화학의 역사로 시작해서 이해하기에 아주 좋은 책으로
+  - 특별히 어렵지도 않으나 그렇다고 과하게 가볍지 않은 책
+  - 양자역학의 빌드업까지 무려 10장 중에 8장을 읽어 내야 하고
+  - 마지막 하이하이트라고 볼 수 있는 양자컴퓨터에 대한 내용은 2페이지에 불과함
+  - 리뷰 링크: https://www.notion.so/jongfeel/019ddcf4ad034e7a8844aea79f6b2022
 
 - [일상적이지만 절대적인 양자역학지식 50 - 슈뢰딩거부터 양자컴퓨터까지 양자세계에 관한 모든 것](http://aladin.kr/p/Gbwew)
   - 이 책 역시 양자 컴퓨터에 대한 전반적인 이해를 하는데 도움이 되는 책
