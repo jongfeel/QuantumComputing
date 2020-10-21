@@ -26,19 +26,9 @@
 
 특별히 책에 있는 내용대로 동작하지 않는 부분에 대해 수정된 점만 설명한다.
 
-jupyter notebook의 update는 
+jupyter notebook의 update는 [Origin](https://github.com/PacktPublishing/Mastering-Quantum-Computing-with-IBM-QX) 주소에서 fork 해온 [Forked](https://github.com/jongfeel/Mastering-Quantum-Computing-with-IBM-QX) 주소에서 확인 가능하다.
 
-https://github.com/PacktPublishing/Mastering-Quantum-Computing-with-IBM-QX
-
-이 주소에서 fork 해온 나의 repository인
-
-https://github.com/jongfeel/Mastering-Quantum-Computing-with-IBM-QX
-
-여기에서 확인 가능하다.
-
-Chapter01의 부분만 확인해 보고자 하면 아래 링크를 참고하자.
-
-https://github.com/jongfeel/Mastering-Quantum-Computing-with-IBM-QX/blob/master/Chapter01/Hello%20Quantum%20World.ipynb
+[Chapter01](https://github.com/jongfeel/Mastering-Quantum-Computing-with-IBM-QX/blob/master/Chapter01/Hello%20Quantum%20World.ipynb)의 부분만 확인해 보고자 하면 링크를 참고하자.
 
 #### Jupyter notebook troubleshooting
 
@@ -60,4 +50,3 @@ provider = IBMQ.get_provider()
 print(provider.backends())
 backend  = provider.get_backend('ibmq_qasm_simulator')
 ```
-
