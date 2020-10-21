@@ -79,7 +79,9 @@ pip install jupyter
 | Chapter | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |
 | All | Python 3.8.5 | Cross platform |
-| All | qiskit 0.21.0 | Cross platform |
+| All | qiskit 0.23.0 | Cross platform |
 | All | numpy 1.19.2 | Cross platform |
 | All | matplotlib 3.3.2 | Cross platform |
 | 8 | pygame 1.9.6 | Cross platform |
+
+> :warning: Python 3.9.0이 2020-10-05일 release 되서 다시 설치해 봤는데 qiskit과 pygame이 설치되지 않는다.
