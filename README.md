@@ -1,4 +1,5 @@
 # QuantumComputing
+
 Quantum Computing and Programming Study
 
 ## Why quantum computing
@@ -22,7 +23,8 @@ Quantum Computing and Programming Study
 현재 양자 컴퓨터에 대한 내용은 물리와 수학, 하드웨어를 구현하기 위한 논리 적인 내용이 주를 이루고 있으며 소프트웨어나 프로그래밍 영역은 이제 걸음마 수준이라고 봐야 한다. 현 시점에서는 IBM이 독보적인 소프트웨어 환경을 구축하고 있으며, 그 뒤로 마이크로소프트가 뒤를 잇고 있다. 이 기준은 양자 컴퓨터 하드웨어가 아닌 소프트웨어 기준이다. 하드웨어 기준으로 한다면 구글, 인텔 등을 더 언급할 수 있다.
 
 시중에 나온 번역서의 경우 크게 세가지로 분류할 수 있는데
-- 인문 교양 수준의 양자 컴퓨터 역사, 다른 점, 필요성 등을 언급하는 책
+
+- 인문 교양 수준의 양자 컴퓨터 역사, 기존 컴퓨터와의 차이점, 필요성 등을 언급하는 책
 - 양자 컴퓨터의 기본 원리 및 이해를 위해 물리를 기반으로 한 양자 역학, 수학의 개념을 언급하는 책
 - 양자 컴퓨터를 바탕으로 시뮬레이션을 통해 실제 프로그래밍으로 응용해서 결과를 보고 유명한 양자 알고리즘의 이해를 돕고 설명하는 책
 
@@ -30,9 +32,9 @@ Quantum Computing and Programming Study
 
 ## Practice
 
-- [IBM QX로 배우는 양자 컴퓨팅](MasteringQuantumComputingWithIBMQX/README.md)
+- [IBM QX로 배우는 양자 컴퓨팅](/MasteringQuantumComputingWithIBMQX)
 
-## Books, latest update 2020-10-06
+## Books, latest update 2020-10-21
 
 매번 양자 컴퓨터 관련된 책이 출판되면 리스트를 업데이트 할 예정이다. 책 리스트 순서는 최근 출판된 순서이다. 또한 내가 읽었던 혹은 읽을 책의 리스트이기도 하다.
 또 양자 컴퓨터의 기반이 되는 양자 역학에 대한 책도 맨 아래 리스팅 해 본다.
@@ -40,7 +42,10 @@ Quantum Computing and Programming Study
 ### Quantum Computer & Programming
 
 - [그림으로 이해하는 양자컴퓨터의 구조](http://aladin.kr/p/8yN9r)
-  - wish list
+  - 저자가 일본 사람인데 객관적이면서도 쉬운 접근 방식으로 양자 컴퓨터를 설명하고 있다.
+  - 또, 현재 구현하고 있는 양자 컴퓨터의 현황과 어떤 방식으로 개발하는지에 대한 접근 방식 및 회사별 차이점 등도 간략하게 언급한 점이 다른 책들과는 차별화된 내용이라고 볼 수 있다.
+  - 간단한 책 리뷰는 나의 노션 페이지에서 더 볼 수 있다.
+  - https://www.notion.so/jongfeel/5a48857004904b04ad9e635075524c89
 - [양자 컴퓨팅 - 이론에서 응용까지](http://aladin.kr/p/pyNbU)
   - wish list
 - [양자 컴퓨터 원리와 수학적 기초 - 스핀부터 큐비트, 얽힘, 중첩, 양자 알고리즘, 양자 암호](http://aladin.kr/p/0NxBo)
