@@ -13,6 +13,7 @@ https://github.com/jongfeel/Mastering-Quantum-Computing-with-IBM-QX
 ## Chapters
 
 - [Chapter01](/MasteringQuantumComputingWithIBMQX/Chapter01)
+  - [Practice](/MasteringQuantumComputingWithIBMQX/Chapter01/Practice)
 
 ## Copyright
 
